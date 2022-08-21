@@ -1,0 +1,915 @@
+a		a
+aby		a b i
+akcie		a k c i j e
+akcii		a k c i j i
+akcionáø		a k c i j o n A Q
+akciového		a k c i j o v E h o
+akciovıch		a k c i j o v I x
+akcií		a k c i j I
+akt		a k t
+akt		a g d
+ale		a l e
+ani		a J i
+anuloval		a n u l o v a l
+anulovalo		a n u l o v a l o
+automaticky		a u t o m a t i c k i
+a		a S
+a		a Z
+banka		b a N k a
+bankovního		b a N k o v J I h o
+banky		b a N k i
+benzinu		b e n z I n u
+bilance		b i l a n c e
+bude		b u d e
+budou		b u d y
+budoucna		b u d y c n a
+budoucnosti		b u d y c n o s T i
+budoucnu		b u d y c n u
+budovách		b u d o v A x
+budování		b u d o v A J I
+burce		b u r c e
+burze		b u r z e
+by		b i
+byl		b i l
+byla		b i l a
+bylo		b i l o
+byly		b i l i
+bys		b i s
+bys		b i z
+bıt		b I t
+bıt		b I d
+bıvajících		b I v a j I c I x
+celkovou		c e l k o v y
+celkového		c e l k o v E h o
+celkovıch		c e l k o v I x
+celku		c e l k u
+cely		c e l i
+celá		c e l A
+celého		c e l E h o
+cen		c e n
+cena		c e n a
+cennıch		c e n I x
+centra		c e n t r a
+centrálním		c e n t r A l J I m
+ceny		c e n i
+certifikátù		c e r t i f i k A t U
+chodníky		x o d J I k i
+chodníky		x o D J I k i
+chodu		x o d u
+cyklu		c i k l u
+další		d a l S I
+daòovém		d a J o v E m
+daòovım		d a J o v I m
+definitivní		d e f i n i t i v J I
+definitní		d e f i n i t J I
+definitní		d e f i n i T J I
+den		d e n
+des		d e s
+des		d e z
+devalvaci		d e v a l v a c i
+devìt		d e v j e t
+devìt		d e v j e d
+dividendy		d i v i d e n d i
+dlouho		d l y h o
+dlouhodobì		d l y h o d o b j e
+dnì		d J e
+dnì		D J e
+do		d o
+dobrı		d o b r I
+dochází		d o x A z I
+dohled		d o h l e t
+dohled		d o h l e d
+dohledu		d o h l e d u
+domácí		d o m A c I
+dopad		d o p a t
+dopad		d o p a d
+dosahují		d o s a h u j I
+dovolali		d o v o l a l i
+drobní		d r o b J I
+drela		d r Z e l a
+dva		d v a
+dvojnásobná		d v o j n A s o b n A
+dvou		d v y
+dvì		d v j e
+dá		d A
+dál		d A l
+dále		d A l e
+dát		d A t
+dát		d A d
+dìkujeme		D e k u j e m e
+dílem		D I l e m
+dùleitıch		d U l e Z i t I x
+dùvod		d U v o t
+dùvod		d U v o d
+efektivní		e f e k t i v J I
+ekonomickou		e k o n o m i c k y
+ekonomiky		e k o n o m i k i
+emise		e m i s e
+emisemi		e m i s e m i
+emisními		e m i s J I m i
+evropském		e v r o p s k E m
+existuje		e g z i s t u j e
+export		e k s p o r t
+export		e k s p o r d
+filipa		f i l i p a
+financí		f i n a n c I
+finanèní		f i n a n C J I
+finanèních		f i n a n C J I x
+firmami		f i r m a m i
+fon		f o n
+fond		f o n t
+fond		f o n d
+hlavní		h l a v J I
+hned		h n e t
+hned		h n e d
+ho		h o
+hodnoty		h o d n o t i
+holding		h o l d i N k
+holding		h o l d i N g
+hospodáøskou		h o s p o d A Q s k y
+hromada		h r o m a d a
+i		i
+informací		i n f o r m a c I
+informaèních		i n f o r m a C J I x
+informaèního		i n f o r m a C J I h o
+inteligence		i n t e l i g e n c e
+investièní		i n v e s t i C J I
+investoru		i n v e s t o r u
+investorù		i n v e s t o r U
+jak		j a k
+jak		j a g
+jako		j a k o
+jaké		j a k E
+je		j e
+jedna		j e d n a
+jednotlivé		j e d n o t l i v E
+jednoznaènì		j e d n o z n a C J e
+jeho		j e h o
+jejich		j e j i x
+její		j e j I
+jen		j e n
+ještì		j e S T e
+jiného		j i n E h o
+ji		j i S
+ji		j i Z
+jiní		j i Z J I
+jmenované		j m e n o v a n E
+jsme		s m e
+jsme		j s m e
+jsou		s y
+jsou		j s y
+jste		s t e
+jste		j s t e
+k		k
+k		g
+kanalizace		k a n a l i z a c e
+kanalizacím		k a n a l i z a c I m
+kapitálu		k a p i t A l u
+katastru		k a t a s t r u
+kde		g d e
+kdy		g d i
+klientem		k l i j e n t e m
+klientù		k l i j e n t U
+klientùm		k l i j e n t U m
+knize		k J i z e
+koho		k o h o
+kolaps		k o l a p s
+kolaps		k o l a b z
+komerèní		k o m e r C J I
+koncentrovaná		k o n c e n t r o v a n A
+koncentrována		k o n c e n t r o v A n a
+koneèné		k o n e C n E
+koneènì		k o n e C J e
+konkurence		k o N k u r e n c e
+konsensu		k o n s e n s u
+konsolidaèní		k o n s o l i d a C J I
+kontinentu		k o n t i n e n t u
+korun		k o r u n
+koruny		k o r u n i
+kozo		k o z o
+kreditní		k r e d i t J I
+kreditní		k r e d i T J I
+kritizovanıch		k r i t i z o v a n I x
+krize		k r i z e
+kroku		k r o k u
+krátkodobého		k r A t k o d o b E h o
+která		k t e r A
+které		k t e r E
+kterı		k t e r I
+kterım		k t e r I m
+kursu		k u r s u
+kurzu		k u r z u
+laboratoøe		l a b o r a t o R e
+ladìném		l a D e n E m
+ladìnému		l a D e n E m u
+latí		l a T I
+let		l e t
+let		l e d
+letošního		l e t o S J I h o
+majetku		m a j e t k u
+majitelem		m a j i t e l e m
+majitelùm		m a j i t e l U m
+mají		m a j I
+malımi		m a l I m i
+mezi		m e z i
+miliard		m i l i j a r t
+miliard		m i l i j a r d
+mini		m i n i
+ministerstva		m i n i s t e r s t v a
+ministerstvo		m i n i s t e r s t v o
+ministerstvu		m i n i s t e r s t v u
+ministra		m i n i s t r a
+mluvíte		m l u v I t e
+mono		m o Z n o
+monost		m o Z n o s t
+monost		m o Z n o z d
+moné		m o Z n E
+musela		m u s e l a
+musí		m u s I
+má		m A
+mìl		m J e l
+mìla		m J e l a
+mìli		m J e l i
+mìlo		m J e l o
+mìny		m J e n i
+mìsícù		m J e s I c U
+mùe		m U Z e
+na		n a
+nabídnout		n a b I d n y t
+nabídnout		n a b I d n y d
+nadpis		n a t p i s
+nadpis		n a t p i z
+nadstandardní		n a t s t a n d a r d J I
+nadstandardní		n a t s t a n d a r D J I
+nadstandardní		n a c t a n d a r d J I
+nadstandardní		n a c t a n d a r D J I
+naladìnému		n a l a D e n E m u
+naopak		n a o p a k
+naopak		n a o p a g
+napomáhá		n a p o m A h A
+napøíklad		n a p Q I k l a t
+napøíklad		n a p Q I k l a d
+navzdory		n a v z d o r i
+našeho		n a S e h o
+našemu		n a S e m u
+naši		n a S i
+ne		n e
+nebo		n e b o
+nebudou		n e b u d y
+nedosahuj		n e d o s a h u j
+nedosahují		n e d o s a h u j I
+neexistuje		n e e g z i s t u j e
+nejlepší		n e j l e p S I
+nejrychleji		n e j r i x l e j i
+nejvyšší		n e j v i S I
+nejvyšší		n e j v i S S I
+nejvìtší		n e j v j e C I
+nejvìtší		n e j v j e t S I
+nejvìtšími		n e j v j e C I m i
+nejvìtšími		n e j v j e t S I m i
+nejvíce		n e j v I c e
+nejvıhodnìjší		n e j v I h o d J e j S I
+nejvıhodnìjší		n e j v I h o D J e j S I
+nejvıznamnìjší		n e j v I z n a m J e j S I
+nejvıznamnìjšími		n e j v I z n a m J e j S I m i
+nelegální		n e l e g A l J I
+nelegálním		n e l e g A l J I m
+nemovitost		n e m o v i t o s t
+nemovitost		n e m o v i t o z d
+nemovitosti		n e m o v i t o s T i
+nemovitostí		n e m o v i t o s T I
+nenalézali		n e n a l E z a l i
+není		n e J I
+neobsahují		n e o p s a h u j I
+neoficiálních		n e o f i c i j A l J I x
+nepotvrdil		n e p o t v r D i l
+nepotvrdilo		n e p o t v r D i l o
+nepovedl		n e p o v e d l
+nepøedpokládají		n e p Q e t p o k l A d a j I
+nepøíliš		n e p Q I l i S
+nepøíliš		n e p Q I l i Z
+nerespektování		n e r e s p e k t o v A J I
+nesnesou		n e s n e s y
+nestandardní		n e s t a n d a r d J I
+nestandardní		n e s t a n d a r D J I
+nesvìdomitım		n e s v j e d o m i t I m
+neukládá		n e u k l A d A
+neunesou		n e u n e s y
+nevedl		n e v e d l
+nevyvedl		n e v i v e d l
+nevyvedly		n e v i v e d l i
+nezaznamená		n e z a z n a m e n A
+neznamená		n e z n a m e n A
+neznámá		n e z n A m A
+neznámé		n e z n A m E
+ne		n e S
+ne		n e Z
+nicménì		J i c m E J e
+normy		n o r m i
+novém		n o v E m
+novıch		n o v I x
+nula		n u l a
+nynìjší		n i J e j S I
+nyní		n i J I
+nákladù		n A k l a d U
+náprava		n A p r a v a
+národní		n A r o d J I
+národní		n A r o D J I
+národního		n A r o d J I h o
+národního		n A r o D J I h o
+nás		n A s
+nás		n A z
+následek		n A s l e d e k
+následek		n A s l e d e g
+následkem		n A s l e t k e m
+návrat		n A v r a t
+návrat		n A v r a d
+nì		J e
+nìkoho		J e k o h o
+nìkterıch		J e k t e r I x
+ním		J I m
+o		o
+ob		o p
+ob		o b
+obavy		o b a v i
+obcemi		o p c e m i
+obchodech		o p x o d e x
+obchodní		o p x o d J I
+obchodní		o p x o D J I
+obchodních		o p x o d J I x
+obchodních		o p x o D J I x
+obchodníci		o p x o d J I c i
+obchodníci		o p x o D J I c i
+obchodníky		o p x o d J I k i
+obchodníky		o p x o D J I k i
+obchodování		o p x o d o v A J I
+obchodu		o p x o d u
+období		o b d o b I
+obdobím		o b d o b I m
+objevil		o b j e v i l
+oblastech		o b l a s t e x
+oblasti		o b l a s T i
+obnovit		o b n o v i t
+obnovit		o b n o v i d
+obnovovat		o b n o v o v a t
+obnovovat		o b n o v o v a d
+obratem		o b r a t e m
+obraty		o b r a t i
+obrazem		o b r a z e m
+obuvi		o b u v i
+od		o t
+od		o d
+odborníci		o d b o r J I c i
+odborníky		o d b o r J I k i
+oddìlenì		o d D e l e J e
+odejít		o d e j I t
+odejít		o d e j I d
+odkazem		o t k a z e m
+odkoupení		o t k y p e J I
+odpad		o t p a t
+odpad		o t p a d
+odrazem		o d r a z e m
+odstartovalo		o t s t a r t o v a l o
+odstartovalo		o c t a r t o v a l o
+oficiálních		o f i c i j A l J I x
+ohledu		o h l e d u
+okolnost		o k o l n o s t
+okolnost		o k o l n o z d
+okolnosti		o k o l n o s T i
+omylem		o m i l e m
+opaèném		o p a C n E m
+oslabily		o s l a b i l i
+oslavily		o s l a v i l i
+osm		o s m
+osm		o s u m
+ostatní		o s t a t J I
+ostatní		o s t a T J I
+ostatních		o s t a t J I x
+ostatních		o s t a T J I x
+ostatního		o s t a t J I h o
+ostatního		o s t a T J I h o
+osu		o s u
+otevírají		o t e v I r a j I
+otvírají		o t v I r a j I
+ovlivnil		o v l i v J i l
+ovšem		o f S e m
+ozve		o z v e
+oèekávat		o C e k A v a t
+oèekávat		o C e k A v a d
+pak		p a k
+pak		p a g
+panuje		p a n u j e
+panují		p a n u j I
+papírù		p a p I r U
+pasiv		p a s i f
+pasiv		p a s i v
+pasiva		p a s i v a
+pasíva		p a s I v a
+patøí		p a t Q I
+platby		p l a d b i
+platné		p l a t n E
+platném		p l a t n E m
+platnım		p l a t n I m
+platy		p l a t i
+plynárenské		p l i n A r e n s k E
+po		p o
+pobyty		p o b i t i
+podklady		p o t k l a d i
+podle		p o d l e
+podmínka		p o d m I N k a
+podnikat		p o d J i k a t
+podnikat		p o d J i k a d
+podnikat		p o D J i k a t
+podnikat		p o D J i k a d
+podnikatelé		p o d J i k a t e l E
+podnikatelé		p o D J i k a t e l E
+podnikatelù		p o d J i k a t e l U
+podnikatelù		p o D J i k a t e l U
+podnikového		p o d J i k o v E h o
+podnikového		p o D J i k o v E h o
+podnikù		p o d J i k U
+podnikù		p o D J i k U
+podpora		p o t p o r a
+podpory		p o t p o r i
+pohyb		p o h i p
+pohyb		p o h i b
+pohyby		p o h i b i
+pojišovaly		p o j i S T o v a l i
+pojišovna		p o j i S T o v n a
+pojišovny		p o j i S T o v n i
+pojišovnì		p o j i S T o v J e
+pokladny		p o k l a d n i
+pokles		p o k l e s
+pokles		p o k l e z
+pokládají		p o k l A d a j I
+pokraèující		p o k r a C u j I c I
+pokud		p o k u t
+pokud		p o k u d
+politickou		p o l i t i c k y
+politiku		p o l i t i k u
+pomoci		p o m o c i
+pomocí		p o m o c I
+pomáhá		p o m A h A
+pomìrnì		p o m J e r J e
+poplatkù		p o p l a t k U
+poptávka		p o p t A f k a
+porušení		p o r u S e J I
+porušovanıch		p o r u S o v a n I x
+porušování		p o r u S o v A J I
+poskytovány		p o s k i t o v A n i
+poslední		p o s l e d J I
+poslední		p o s l e D J I
+posledních		p o s l e d J I x
+posledních		p o s l e D J I x
+posouzení		p o s y z e J I
+posoue		p o s y Z e
+postiení		p o s T i Z e J I
+postienıch		p o s T i Z e n I x
+postupnì		p o s t u p J e
+potom		p o t o m
+potøebuje		p o t Q e b u j e
+pouze		p y z e
+povaovat		p o v a Z o v a t
+povaovat		p o v a Z o v a d
+povauje		p o v a Z u j e
+povinnosti		p o v i n o s T i
+povinností		p o v i n o s T I
+pozitivní		p o z i t i v J I
+pozitivním		p o z i t i v J I m
+poštovní		p o S t o v J I
+poadavek		p o Z a d a v e k
+poadavek		p o Z a d a v e g
+poadavkem		p o Z a d a f k e m
+poaduje		p o Z a d u j e
+poèáteèní		p o C A t e C J I
+poèátkem		p o C A t k e m
+poèátku		p o C A t k u
+poèítaèem		p o C I t a C e m
+poèítaèovıch		p o C I t a C o v I x
+pracovní		p r a c o v J I
+pravidla		p r a v i d l a
+praxi		p r a k s i
+praské		p r a S s k E
+privatizaèních		p r i v a t i z a C J I x
+pro		p r o
+problémy		p r o b l E m i
+proce		p r o c e
+procent		p r o c e n t
+procent		p r o c e n d
+proces		p r o c e s
+proces		p r o c e z
+procesu		p r o c e s u
+prodala		p r o d a l a
+produkty		p r o d u k t i
+programù		p r o g r a m U
+projednala		p r o j e d n a l a
+projedná		p r o j e d n A
+projevil		p r o j e v i l
+projevila		p r o j e v i l a
+proplacení		p r o p l a c e J I
+proplácení		p r o p l A c e J I
+prosaï		p r o s a T
+prosaï		p r o s a D
+prostøednictvím		p r o s t Q e d J i c t v I m
+prostøednictvím		p r o s t Q e D J i c t v I m
+prosím		p r o s I m
+proti		p r o T i
+protoe		p r o t o Z e
+proveditelné		p r o v e D i t e l n E
+provést		p r o v E s t
+provést		p r o v E z d
+provìøil		p r o v j e R i l
+provìøila		p r o v j e R i l a
+provìøit		p r o v j e R i t
+provìøit		p r o v j e R i d
+prvních		p r v J I x
+prvorepublikové		p r v o r e p u b l i k o v E
+práce		p r A c e
+právnì		p r A v J e
+právì		p r A v j e
+prùmyslové		p r U m i s l o v E
+prùmyslovì		p r U m i s l o v j e
+prùmìrné		p r U m J e r n E
+pád		p A t
+pád		p A d
+páteèní		p A t e C J I
+pìt		p j e t
+pìt		p j e d
+pípnutí		p I p n u T I
+pøe		p Q e
+pøed		p Q e t
+pøed		p Q e d
+pøedevším		p Q e d e f S I m
+pøedpokládají		p Q e t p o k l A d a j I
+pøedstavenstva		p Q e t s t a v e n s t v a
+pøedstavenstva		p Q e c t a v e n s t v a
+pøesto		p Q e s t o
+pøestoe		p Q e s t o Z e
+pøevánì		p Q e v A Z J e
+pøeètení		p Q e C t e J I
+pøeètìte		p Q e C T e t e
+pøijde		p Q i j d e
+pøipomeò		p Q i p o m e J
+pøipomeòme		p Q i p o m e J m e
+pøipomeòte		p Q i p o m e J t e
+pøipravuje		p Q i p r a v u j e
+pøispìje		p Q i s p j e j e
+pøispìjte		p Q i s p j e j t e
+pøispìly		p Q i s p j e l i
+pøitom		p Q i t o m
+pøivést		p Q i v E s t
+pøivést		p Q i v E z d
+pøíliš		p Q I l i S
+pøíliš		p Q I l i Z
+pøímıch		p Q I m I x
+pøípadném		p Q I p a d n E m
+pøípadnì		p Q I p a d J e
+pøípadnì		p Q I p a D J e
+pøípadì		p Q I p a D e
+pøípadù		p Q I p a d U
+pøíplatkù		p Q I p l a t k U
+pøíznivì		p Q I z J i v j e
+pøíznivıch		p Q I z J i v I x
+pøíští		p Q I S T I
+realizaci		r e a l i z a c i
+regionálními		r e g i j o n A l J I m i
+regulace		r e g u l a c e
+regulaci		r e g u l a c i
+regulována		r e g u l o v A n a
+republikové		r e p u b l i k o v E
+respondentù		r e s p o n d e n t U
+rest		r e s t
+rest		r e z d
+restrukturalizace		r e s t r u k t u r a l i z a c e
+restrukturalizaci		r e s t r u k t u r a l i z a c i
+rodina		r o D i n a
+rodinná		r o D i n A
+rodinného		r o D i n E h o
+rodinnému		r o D i n E m u
+roku		r o k u
+roste		r o s t e
+rozestavìná		r o z e s t a v j e n A
+rozestavìné		r o z e s t a v j e n E
+rozhodla		r o z h o d l a
+rozhodnutí		r o z h o d n u T I
+rozpoètu		r o s p o C t u
+rychle		r i x l e
+rychleji		r i x l e j i
+rùst		r U s t
+rùst		r U z d
+rùstové		r U s t o v E
+rùstu		r U s t u
+rùstù		r U s t U
+s		s
+s		z
+sade		s a d e
+sazeb		s a z e p
+sazeb		s a z e b
+sdruení		z d r u Z e J I
+se		s e
+seance		s e a n c e
+sedm		s e d m
+sedm		s e d u m
+sektoru		s e k t o r u
+severoèeské		s e v e r o C e s k E
+seznamu		s e z n a m u
+sféøe		s f E R e
+shledanou		s x l e d a n y
+shledanou		z h l e d a n y
+sice		s i c e
+situace		s i t u a c e
+situaci		s i t u a c i
+sjednaná		s j e d n a n A
+sjedná		s j e d n A
+sjednána		s j e d n A n a
+skok		s k o k
+skok		s k o g
+skupinì		s k u p i J e
+slabı		s l a b I
+slovo		s l o v o
+sluby		s l u Z b i
+sníení		s J I Z e J I
+soudnì		s y d J e
+soudnì		s y D J e
+sousedé		s y s e d E
+soutì		s y T e S
+soutì		s y T e Z
+souèasné		s y C a s n E
+souèasného		s y C a s n E h o
+souèástí		s y C A s T I
+splnìna		s p l J e n a
+spojen		s p o j e n
+spoleèenstev		s p o l e C e n s t e f
+spoleèenstev		s p o l e C e n s t e v
+spoleèenstvy		s p o l e C e n s t v i
+spoleènost		s p o l e C n o s t
+spoleènost		s p o l e C n o z d
+spoleènosti		s p o l e C n o s T i
+spoleènostmi		s p o l e C n o s t m i
+spor		s p o r
+spornıch		s p o r n I x
+sporıch		s p o r I x
+spotøebního		s p o t Q e b J I h o
+spotøeby		s p o t Q e b i
+spoøitelen		s p o R i t e l e n
+spoøitelního		s p o R i t e l J I h o
+správa		s p r A v a
+správnì		s p r A v J e
+stalo		s t a l o
+stanovilo		s t a n o v i l o
+stanovisko		s t a n o v i s k o
+startovalo		s t a r t o v a l o
+statistického		s t a t i s t i c k E h o
+stavebních		s t a v e b J I x
+stojí		s t o j I
+strak		s t r a k
+strak		s t r a g
+stranu		s t r a n u
+strany		s t r a n i
+strategickıch		s t r a t e g i c k I x
+stále		s t A l e
+státní		s t A t J I
+státní		s t A T J I
+státu		s t A t u
+státy		s t A t i
+støedisko		s t Q e D i s k o
+støedisku		s t Q e d i s k u
+své		s v E
+svìdomitım		s v j e d o m i t I m
+svìtì		s v j e T e
+svım		s v I m
+systému		s i s t E m u
+systémù		s i s t E m U
+sérií		s E r i j I
+ta		t a
+tak		t a k
+tak		t a g
+také		t a k E
+technologie		t e x n o l o g i j e
+technologii		t e x n o l o g i j i
+tel		t e l
+telefonních		t e l e f o J I x
+ten		t e n
+text		t e k s t
+text		t e g z d
+teï		t e T
+teï		t e D
+to		t o
+toho		t o h o
+tohoto		t o h o t o
+toku		t o k u
+tomu		t o m u
+toti		t o T i S
+toti		t o T i Z
+toto		t o t o
+trhu		t r h u
+trhù		t r h U
+trojnásobná		t r o j n A s o b n A
+trvá		t r v A
+tuto		t u t o
+této		t E t o
+tøi		t Q i
+tøicet		t Q i c e t
+tøicet		t Q i c e d
+tıden		t I d e n
+tıdnem		t I d n e m
+u		u
+udrela		u d r Z e l a
+ukládá		u k l A d A
+umìle		u m J e l e
+univerzitì		u n i v e r z i T e
+urèité		u r C i t E
+urèitì		u r C i T e
+usilují		u s i l u j I
+ustálené		u s t A l e n E
+ustálenì		u s t A l e J e
+uvedlo		u v e d l o
+uèòovské		u C J o f s k E
+v		f
+v		v
+valná		v a l n A
+ve		v e
+vedle		v e d l e
+vel		v e l
+velkımi		v e l k I m i
+velmi		v e l m i
+veø		v e Q
+veøejnost		v e R e j n o s t
+veøejnost		v e R e j n o z d
+veøejnosti		v e R e j n o s T i
+vidí		v i D I
+vitostí		v i t o s T I
+vlastnì		v l a s t J e
+vlastnì		v l a s T J e
+vlastnìni		v l a s t J e J i
+vlastnìni		v l a s T J e J i
+vlastnìny		v l a s t J e n i
+vlastnìny		v l a s T J e n i
+vlastníkù		v l a s t J I k U
+vlastníkù		v l a s T J I k U
+vláda		v l A d a
+vlády		v l A d i
+vnitra		v J i t r a
+vodovody		v o d o v o d i
+vodu		v o d u
+volat		v o l a t
+volat		v o l a d
+volit		v o l i t
+volit		v o l i d
+vpád		f p A t
+vpád		f p A d
+vstup		f s t u p
+vstup		f s t u b
+vy		v i
+vynalezené		v i n a l e z e n E
+vynalezli		v i n a l e z l i
+vynalézali		v i n a l E z a l i
+vynalézané		v i n a l E z a n E
+vyplatí		v i p l a T I
+vysokıch		v i s o k I x
+vyvlastnìny		v i v l a s t J e n i
+vyvlastnìny		v i v l a s T J e n i
+vyšší		v i S I
+vyšší		v i S S I
+vyšších		v i S I x
+vyšších		v i S S I x
+vyèkejte		v i C k e j t e
+vzestup		v z e s t u p
+vzestup		v z e s t u b
+vzrùstu		v z r U s t u
+však		f S a k
+však		f S a g
+všech		f S e x
+všechny		f S e x n i
+všichni		f S i x J i
+vštìpovat		f S T e p o v a t
+vštìpovat		f S T e p o v a d
+všude		f S u d e
+váz		v A s
+váz		v A z
+vèera		f C e r a
+vìt		v j e t
+vìt		v j e d
+vìtšinovıch		v j e C i n o v I x
+vìtšinovıch		v j e t S i n o v I x
+vìtì		v j e T e
+ví		v I
+víc		v I c
+víc		v I d z
+více		v I c e
+vùbec		v U b e c
+vùbec		v U b e d z
+vıbìru		v I b j e r u
+vıraznì		v I r a z J e
+vıraznı		v I r a z n I
+vırobcù		v I r o p c U
+vısledek		v I s l e d e k
+vısledek		v I s l e d e g
+vısledkem		v I s l e t k e m
+vısledku		v I s l e t k u
+vısledky		v I s l e t k i
+vıstavby		v I s t a v b i
+vıvozu		v I v o z u
+vıznamnou		v I z n a m n y
+vıznamnı		v I z n a m n I
+z		s
+z		z
+za		z a
+zahranièní		z a h r a J i C J I
+zahranièních		z a h r a J i C J I x
+zahranièního		z a h r a J i C J I h o
+zahranièí		z a h r a J i C I
+zahrnovat		z a h r n o v a t
+zahrnovat		z a h r n o v a d
+zahrnuto		z a h r n u t o
+zamìstnanecké		z a m J e s t n a n e c k E
+zamìstnavatelské		z a m J e s t n a v a t e l s k E
+zapsána		z a p s A n a
+zatím		z a T I m
+zavedení		z a v e d e J I
+zavedli		z a v e d l i
+zavolá		z a v o l A
+zaznamenaly		z a z n a m e n a l i
+zaèátkem		z a C A t k e m
+zaèátku		z a C A t k u
+zboí		z b o Z I
+zbudování		z b u d o v A J I
+zbıvajících		z b I v a j I c I x
+zdaòovacích		z d a J o v a c I x
+zdaòovacím		z d a J o v a c I m
+zdraení		z d r a Z e J I
+zdálo		z d A l o
+ze		z e
+zejména		z e j m E n a
+zemìdìlci		z e m J e D e l c i
+zemìdìlskıch		z e m J e D e l s k I x
+zemìdìlstvích		z e m J e D e l s t v I x
+zhodnocení		z h o d n o c e J I
+zmìnu		z m J e n u
+znehodnocení		z n e h o d n o c e J I
+známá		z n A m A
+zprávám		s p r A v A m
+zpìt		s p j e t
+zpìt		s p j e d
+zpùsob		s p U s o p
+zpùsob		s p U s o b
+zpùsobu		s p U s o b u
+zpùsoby		s p U s o b i
+zpùsobù		s p U s o b U
+zvıhodnìní		z v I h o d J e J I
+zvıhodnìní		z v I h o D J e J I
+zvıšení		z v I S e J I
+zvıšenıch		z v I S e n I x
+zájmu		z A j m u
+zájmy		z A j m i
+zájmù		z A j m U
+zákazníka		z A k a z J I k a
+zákon		z A k o n
+zákona		z A k o n a
+zákonù		z A k o n U
+záplavami		z A p l a v a m i
+zároveò		z A r o v e J
+závazek		z A v a z e k
+závazek		z A v a z e g
+získané		z I s k a n E
+získanı		z I s k a n I
+získávané		z I s k A v a n E
+zøetelnì		z R e t e l J e
+šest		S e s t
+šest		S e z d
+školy		S k o l i
+šéf		S E f
+šéf		S E v
+šíøení		S I R e J I
+šíøením		S I R e J I m
+e		Z e
+ivnostenskıch		Z i v n o s t e n s k I x
+ivotních		Z i v o t J I x
+ivotních		Z i v o T J I x
+ádosti		Z A d o s T i
+èes		C e s
+èes		C e z
+èeská		C e s k A
+èeské		C e s k E
+èeského		C e s k E h o
+ètyøi		C t i R i
+ètyøicet		C t i R i c e t
+ètyøicet		C t i R i c e d
+èíslice		C I s l i c e
+èíslo		C I s l o
+øadu		R a d u
+øadì		R a D e
+øešení		R e S e J I
+øádu		R A d u
+únikù		U J i k U
+únikùm		U J i k U m
+úrokovıch		U r o k o v I x
+ústøedna		U s t Q e d n a
+ústøední		U s t Q e d J I
+ústøední		U s t Q e D J I
+úvìru		U v j e r u
+úvìrù		U v j e r U
+úètu		U C t u
+úètù		U C t U
+úètùm		U C t U m
+úøadu		U R a d u
